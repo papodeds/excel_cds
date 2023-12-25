@@ -18,12 +18,13 @@ cupons de desconto, gastos com marketing, vendas online e impostos. Cabe a você
   - *COHORT:* onde foi realizada uma análise a partir do grupo de clientes que realizou compras mensais.
   - *DASHBOARD:* onde foi realizada a construção de um painel interativo, com informações e métricas relevantes para facilitar a tomada de decisão por parte da gestão, a fim de gerar valor para o negócio.
     
-# *3. O produto final do porjeto*
+# *3. O produto final do projeto*
 Um conjunto com planilhas interativas e estáticas que está disponível para acesso de qualquer dispositivo com conexão à internet.
 
-![Acesse ao projeto do aluno: Excel para Análise de Dados](https://github.com/papodeds/excel_cds/blob/main/dashboard_PA_Excel.png)
+[![Acesse ao projeto do aluno: Excel para Análise de Dados](https://github.com/papodeds/excel_cds/blob/main/dashboard_PA_Excel.png)](https://github.com/papodeds/excel_cds/blob/main/PA-ExcelParaAnaliseDeDados.xlsm)
 
-Para acessá-los basta clicar [nesse link!](https://github.com/papodeds/excel_cds/blob/main/PA-ExcelParaAnaliseDeDados.xlsm)
+Para acessá-los basta clicar na imagem acima ou [neste link!](https://github.com/papodeds/excel_cds/blob/main/PA-ExcelParaAnaliseDeDados.xlsm)
 
 # *6. Conclusões*
-A partir da construção das planilhas e do Dashboard interativo, utilizando a ferramenta *Excel* da *Microsoft* e recursos como Tabelas Dinâmicas, Power Query, Macro, Gráficos de colunas, barras, linhas, pizza e combinação, além de técnicas de exploração de dados e estatíticas, a gestão terá uma maior gama de informações e métricas relevantes sobre o negócio para elaborar com assertividade o projeto estratégico que visa impulsionar o crescimento do negócio da *TikShein®*.
+A partir da construção das planilhas e do Dashboard utilizando a ferramenta *Excel* da *Microsoft* através de recursos como Tabelas Dinâmicas, Power Query, Macros, Gráficos de colunas, barras, linhas, pizza e combinação, além de técnicas estatísticas e de exploração de dados, a gestão da *TikShein®* terá uma maior gama de informações e métricas relevantes sobre o negócio para elaborar com assertividade o projeto para impulsionar o seu crescimento.
+
